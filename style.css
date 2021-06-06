@@ -1,0 +1,22 @@
+header {
+    display: block;
+    background-color: blue;
+    height: 40px;
+    width: auto;
+    border-radius: 2px;
+    align-items: center;
+}
+
+#tab_buttons {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.tab {
+    display: none;
+
+}
+
+#home_tab {
+    display: block;
+}
